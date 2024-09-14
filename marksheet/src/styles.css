@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.marksheet-header {
+  text-align: center;
+}
+
+.chart-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.marksheet-footer {
+  text-align: center;
+  margin-top: 20px;
+  font-style: italic;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
